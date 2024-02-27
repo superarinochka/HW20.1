@@ -1,0 +1,18 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "name": "��������",
+      "description": "����� ��������� �������� ��������"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "name": "������ �� ����",
+      "description": "����� ��������� �������� ������ �� ����"
+    }
+  }
+]
